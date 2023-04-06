@@ -7,8 +7,8 @@ This is a **Nuxt 3** project that provides a simple project showcase page for we
 The website includes the following features:
 
 - A navbar with links to the different pages and a logo
-- Three project sections with images, titles and descriptions in Projects page
-- Search page with search input field and a search button
+- Three project sections with images, titles and descriptions in Projects page( /projects )
+- Search page with search input field and a search button ( /search )
 - A footer with links to social media profiles and a copyright notice
 
 ## Design
