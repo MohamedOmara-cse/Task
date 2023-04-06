@@ -22,6 +22,7 @@ The website is designed to be responsive and can be used on a variety of devices
 ## Functionality
 
 The search page allows users to search for movies based on a search term entered by the user. When the user submits the search form, the website sends a request to the OMDb API and displays the search results on the page. The search results include the movie title, year, and poster image.
+![Example Image](/public/search.png)
 
 ## Deployment
 
@@ -43,4 +44,4 @@ npm install
 
 npm run dev
 
-The website should now be accessible at [http://localhost:3000](http://localhost:3000).
+The website should now be accessible at [http://localhost:3000](http://localhost:3000).'
