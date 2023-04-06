@@ -1,6 +1,6 @@
 # My Nuxt Task
 
-This is a Nuxt 3 project that provides a simple project showcase page for web design, mobile app design, and freebies and another page with simple movie search functionality using the OMDb API. The project is designed to be responsive and can be used on a variety of devices.with a responsive design. The project is built using Tailwind CSS for styling. The website is deployed using Netlify and can be accessed at [App](https://atw-ltd.vercel.app).
+This is a **Nuxt 3** project that provides a simple project showcase page for web design, mobile app design, and freebies and another page with simple movie search functionality using the OMDb API. The project is designed to be responsive and can be used on a variety of devices.with a responsive design. The project is built using **Tailwind CSS** for styling. The website is deployed using **Vercel** and can be accessed at [App](https://atw-ltd.vercel.app).
 
 ## Features
 
